@@ -15,12 +15,12 @@ This is a basic blog application built with Django. It allows users to create, r
 
 
 ## Screenshots
-
-![Screenshot 2024-07-17 114928](https://github.com/user-attachments/assets/257d1d65-7a95-41d8-a5c7-839f4b1ede3c)
+![Screenshot 2024-07-17 114833](https://github.com/user-attachments/assets/72d5bc05-88fc-4858-a0c6-a91334a04d1a)
 
 ![Screenshot 2024-07-17 114908](https://github.com/user-attachments/assets/0554000b-91c3-48e5-9e64-4b5ed5d4854e)
 
-![Screenshot 2024-07-17 114833](https://github.com/user-attachments/assets/72d5bc05-88fc-4858-a0c6-a91334a04d1a)
+![Screenshot 2024-07-17 114928](https://github.com/user-attachments/assets/257d1d65-7a95-41d8-a5c7-839f4b1ede3c)
+
 
 
 ## Tech Stack
