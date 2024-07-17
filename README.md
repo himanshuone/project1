@@ -1,5 +1,5 @@
 
-# [Blog App ](https://himanshuone.pythonanywhere.com/)
+# [Blog App ](https://himanshuone6.pythonanywhere.com/)
 
 This is a basic blog application built with Django. It allows users to create, read, update, and delete blog posts.
 
