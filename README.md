@@ -6,7 +6,7 @@ This is a basic blog application built with Django. It allows users to create, r
 
 ## Features
 
-- User authentication (registration, login, logout)
+- User authentication (without user login you cannot add post or edit Post)
 - Create, read, update, and delete blog posts
 - Admin panel
 - List of all blog posts
@@ -41,8 +41,8 @@ This is a basic blog application built with Django. It allows users to create, r
  1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/django-blog-app.git
-cd django-blog-app 
+git clone https://github.com/himanshuone/project1.git
+cd project1
 ```
 
 2. Create and activate a virtual environment:
